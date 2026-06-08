@@ -13,8 +13,8 @@ A simple stopwatch application built with React that allows users to start, stop
 ## Technologies Used
 
 - React.js
-- JavaScript (ES6+)
-- CSS3
+- JavaScript
+- CSS
 - Vite
 
 ## Installation
