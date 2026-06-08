@@ -23,3 +23,12 @@ A simple stopwatch application built with React that allows users to start, stop
 
 ```bash
 git clone https://github.com/your-username/react-stopwatch-app.git
+```
+2. Install dependencies
+
+```bash
+npm install
+```
+3. Start the server
+```bash
+npm run dev
